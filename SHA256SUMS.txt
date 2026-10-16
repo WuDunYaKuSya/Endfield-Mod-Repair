@@ -1,2 +1,3 @@
 80a8c139baa776eb3e41a5953260b0a65666239932d7f338b0cd1980d85e2fd7  EndfieldModRepair-v1.2.zip
 939e6cac7e56111a0c007cfcdf49afc98638eb80e28015d8194c3be4419ebf7c  EndfieldModRepair-v1.3.zip
+3f603e6f218763589c92dfece2bf4d8a63a0bc62c16c00cf29d216eb5ce896ef  EndfieldModRepair-v1.3.1-rc1.zip

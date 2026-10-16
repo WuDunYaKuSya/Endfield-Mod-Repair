@@ -1,4 +1,16 @@
-# 终末地模组兼容修复 v1.3
+# 终末地模组兼容修复
+
+<!-- v1.3.1-rc1 -->
+## v1.3.1 测试版：远端珊瑚海岸案例与依赖检查
+
+[下载 v1.3.1-rc1 测试版](https://github.com/WuDunYaKuSya/Endfield-Mod-Repair/releases/download/v1.3.1-rc.1/EndfieldModRepair-v1.3.1-rc1.zip)
+
+补充本次反馈中旧版工具改写过的珊瑚海岸精确输入；修正 v1.3 在模组配置一致时漏检 RabbitFX 的逻辑。未识别报告区分相关模组变体与规则库未覆盖，并提示提供实际启用 INI，不能使用旧备份替代。无法识别的配置仍保留原样。
+
+对方实际提供的 RabbitFX 2.7 已带有新版适配规则，本案例测试保持它原样，只改珊瑚海岸主 INI。107 项离线检查通过；远端电脑的肤色、黑点等游戏效果尚待确认，所以本版作为预发布测试包，不能宣称截图问题全部解决。EFMI 核心环境及 DDS 内容尚未全面校验。
+
+退出游戏后完整解压，先扫描，再备份修复。预期本次收到的组合识别两组、修改一个文件；其他模组须以各自报告为准。异常时使用撤销恢复功能并保留报告和备份。
+
 
 [下载 v1.3 Windows 修复工具](https://github.com/WuDunYaKuSya/Endfield-Mod-Repair/releases/download/v1.3.0/EndfieldModRepair-v1.3.zip)
 
