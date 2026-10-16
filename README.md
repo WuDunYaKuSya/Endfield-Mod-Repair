@@ -1,5 +1,15 @@
 # 终末地模组兼容修复
 
+<!-- configuration-diagnostics -->
+## 大量未识别时：配置诊断收集器
+
+[下载配置诊断收集器 v1.0](https://github.com/WuDunYaKuSya/Endfield-Mod-Repair/releases/download/v1.3.1-rc.2/EFMIConfigDiagnostics-v1.0.zip)
+
+修复器当前使用已收录的专用规则，无法仅凭报告中的哈希适配未知作者版本。收集器用于一次导出实际 INI、引用的着色器文本及资源校验清单，方便分析整批新模组。保留菜单/预设目录，INI 数量不等于坏掉的模组数量。
+
+解压运行 `EFMIConfigDiagnostics.exe`，选择实际 EFMI/Mods 文件夹，导出 ZIP 后自行发回分析。只读收集、不修复、不上传；没有模型/贴图内容、DLL、启动器设置、账号信息或抓帧。模型只记录有上限的校验值。详细范围、限制和源码在包内。导出的诊断包不应作为公开 Release 附件上传。
+
+
 <!-- v1.3.1-rc2 -->
 ## 最新测试版 v1.3.1-rc2
 

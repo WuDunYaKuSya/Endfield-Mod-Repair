@@ -2,3 +2,4 @@
 939e6cac7e56111a0c007cfcdf49afc98638eb80e28015d8194c3be4419ebf7c  EndfieldModRepair-v1.3.zip
 3f603e6f218763589c92dfece2bf4d8a63a0bc62c16c00cf29d216eb5ce896ef  EndfieldModRepair-v1.3.1-rc1.zip
 0206d16198ad6350c1b62b09a97f6b25f31c8c0c7677209b9bbbfeea18ddeadd  EndfieldModRepair-v1.3.1-rc2.zip
+1220c3cdb8481425b762b4801a33aa9c65587d9a97ee0f77a82f2de0e5c91759  EFMIConfigDiagnostics-v1.0.zip
